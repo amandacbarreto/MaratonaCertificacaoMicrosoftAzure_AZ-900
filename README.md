@@ -5,7 +5,7 @@
 ## Sumário
 
 1. ### [Introdução aos conceitos básicos do Azure](./Modulo1/M1_Sumario.md)
-2. ### [Discutir conceitos fundamentais do Azure]()
+2. ### [Discutir conceitos fundamentais do Azure](./Modulo2/M2_Sumario.md)
 3. ### [Descrever os principais componentes da arquitetura do Azure]()
 4. ### [Explorar os serviços de computação do Azure]()
 5. ### [Explorar os serviços de rede do Azure]()
