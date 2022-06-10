@@ -12,7 +12,7 @@
 6. ### [Explorar os serviços do Armazenamento do Azure](./Modulo6/M6_1_ConceitosRedeVirtualAzure.md)
 7. ### [Explorar os serviços de banco de dados e análise do Azure](./Modulo7/M7_Sumario.md)
 8. ### [Escolha o serviço de IoT do Azure mais adequado para o seu aplicativo](./Modulo8/M8_1_IoTAzure.md)
-9. ### [Escolha o melhor serviço de IA para suas necessidades]()
+9. ### [Escolha o melhor serviço de IA para suas necessidades](./Modulo9/M9_1_ServicoIA.md)
 10. ### [Escolher a melhor tecnologia sem servidor do Azure para seu cenário empresarial]()
 11. ### [Escolha as melhores ferramentas para ajudar as organizações a criar soluções melhores]()
 12. ### [Escolha as melhores ferramentas para gerenciar e configurar seu ambiente do Azure]()
