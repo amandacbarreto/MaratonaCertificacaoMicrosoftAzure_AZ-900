@@ -2,7 +2,7 @@
 
 ## O que é a Área de Trabalho Virtual do Azure?
 
-> ### A Área de Trabalho Virtual do Azure é um **serviço de virtualização de área de trabalho e aplicativos que é executado na nuvem**. Ele permite que os usuários usem uma versão do Windows hospedada na nuvem em qualquer localização. 
+> ### A Área de Trabalho Virtual do Azure é um **serviço de virtualização de área de trabalho e aplicativos que é executado na nuvem**. Ele permite que os usuários usem uma versão do Windows hospedada na nuvem em qualquer localização.
 
 A Área de Trabalho Virtual do Azure funciona em dispositivos como Windows, Mac, iOS, Android e Linux. Ela funciona com aplicativos que você pode usar para acessar aplicativos e Áreas de Trabalho Remotas. Você também pode usar os navegadores mais modernos para acessar experiências hospedadas na Área de Trabalho Virtual do Azure.
 
@@ -46,8 +46,8 @@ A Área de Trabalho Virtual do Azure permite que você use a multissessão do Wi
 
 A Área de Trabalho Virtual do Azure estará disponível para você sem custos adicionais se você tiver uma licença do Microsoft 365 qualificada. Pague apenas pelos recursos do Azure usados pela Área de Trabalho Virtual do Azure.
 
-* Traga sua licença do Windows ou Microsoft 365 qualificada para obter aplicativos e áreas de trabalho do Windows 10 Enterprise e Windows 7 Enterprise sem custo adicional.
-* Se você for um cliente com licença de acesso para cliente aos Serviços de Área de Trabalho Remota da Microsoft, os aplicativos e as áreas de trabalho dos Serviços de Área de Trabalho Remota do Windows Server estarão disponíveis sem custo adicional.
+- Traga sua licença do Windows ou Microsoft 365 qualificada para obter aplicativos e áreas de trabalho do Windows 10 Enterprise e Windows 7 Enterprise sem custo adicional.
+- Se você for um cliente com licença de acesso para cliente aos Serviços de Área de Trabalho Remota da Microsoft, os aplicativos e as áreas de trabalho dos Serviços de Área de Trabalho Remota do Windows Server estarão disponíveis sem custo adicional.
 
 ### Economize em custos de computação
 

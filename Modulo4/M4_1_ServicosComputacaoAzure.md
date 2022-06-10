@@ -58,4 +58,4 @@ Quando você precisa ter controle total sobre um sistema operacional e ambiente,
 
 ###### Fonte: [Microsoft](https://docs.microsoft.com/pt-br/learn/modules/azure-compute-fundamentals/overview)
 
-> ## [Próximo](./)
+> ## [Próximo](./M4_2_MaquinaVirtuaisAzure.md)
