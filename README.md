@@ -9,7 +9,7 @@
 3. ### [Descrever os principais componentes da arquitetura do Azure](./Modulo3/M3_Sumario.md)
 4. ### [Explorar os serviços de computação do Azure](./Modulo4/M4_Sumario.md)
 5. ### [Explorar os serviços de rede do Azure](./Modulo5/M5_Sumario.md)
-6. ### [Explorar os serviços do Armazenamento do Azure](M6_1_ConceitosRedeVirtualAzure.md)
+6. ### [Explorar os serviços do Armazenamento do Azure](./Modulo6/M6_1_ConceitosRedeVirtualAzure.md)
 7. ### [Explorar os serviços de banco de dados e análise do Azure]()
 8. ### [Escolha o serviço de IoT do Azure mais adequado para o seu aplicativo]()
 9. ### [Escolha o melhor serviço de IA para suas necessidades]()
