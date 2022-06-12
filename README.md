@@ -15,7 +15,7 @@
 9. ### [Escolha o melhor serviço de IA para suas necessidades](./Modulo9/M9_1_ServicoIA.md)
 10. ### [Escolher a melhor tecnologia sem servidor do Azure para seu cenário empresarial](./Modulo10/M10_1_TecnologiaSemServidor.md)
 11. ### [Escolha as melhores ferramentas para ajudar as organizações a criar soluções melhores](./Modulo11/M11_1_MelhoresFerramentas.md)
-12. ### [Escolha as melhores ferramentas para gerenciar e configurar seu ambiente do Azure]()
+12. ### [Escolha as melhores ferramentas para gerenciar e configurar seu ambiente do Azure](./Modulo12/M12_1_ConfigurarAmbienteAzure.md)
 13. ### [Escolher o melhor serviço de monitoramento para visibilidade, insight e mitigação de interrupções]()
 14. ### [Proteger contra ameaças à segurança no Azure]()
 15. ### [Conectividade de rede segura no Azure]()
