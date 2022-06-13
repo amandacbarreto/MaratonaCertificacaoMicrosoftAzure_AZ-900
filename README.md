@@ -18,7 +18,7 @@
 12. ### [Escolha as melhores ferramentas para gerenciar e configurar seu ambiente do Azure](./Modulo12/M12_1_ConfigurarAmbienteAzure.md)
 13. ### [Escolher o melhor serviço de monitoramento para visibilidade, insight e mitigação de interrupções](./Modulo13/M13_1_Interrupcoes.md)
 14. ### [Proteger contra ameaças à segurança no Azure](./Modulo14/M14_1_AmeacasSeguranca.md)
-15. ### [Conectividade de rede segura no Azure]()
+15. ### [Conectividade de rede segura no Azure](./Modulo15/M15_1_Conectividade.md)
 16. ### [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure]()
 17. ### [Criar uma estratégia de governança de nuvem no Azure]()
 18. ### [Conheça os padrões de privacidade, conformidade e proteção de dados do Azure]()
