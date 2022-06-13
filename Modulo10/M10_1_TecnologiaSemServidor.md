@@ -106,4 +106,4 @@ Esse é um cenário ideal para os Aplicativos Lógicos do Azure. **Os conectores
 
 ###### Fonte: [Microsoft](https://docs.microsoft.com/pt-br/learn/modules/ai-machine-learning-fundamentals/6-use-bot-services)
 
-> ## [Próximo](./M9_2_Resumo.md)
+> ## [Próximo](./M10_2_Resumo.md)
