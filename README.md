@@ -19,7 +19,7 @@
 13. ### [Escolher o melhor serviço de monitoramento para visibilidade, insight e mitigação de interrupções](./Modulo13/M13_1_Interrupcoes.md)
 14. ### [Proteger contra ameaças à segurança no Azure](./Modulo14/M14_1_AmeacasSeguranca.md)
 15. ### [Conectividade de rede segura no Azure](./Modulo15/M15_1_Conectividade.md)
-16. ### [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure]()
+16. ### [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](./Modulo16/M16_1_ServicosIdentidade.md)
 17. ### [Criar uma estratégia de governança de nuvem no Azure]()
 18. ### [Conheça os padrões de privacidade, conformidade e proteção de dados do Azure]()
 19. ### [Planeje e gerencie seus custos do Azure]()
