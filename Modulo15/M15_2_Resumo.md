@@ -15,4 +15,4 @@ Proteção completa é o tema recorrente. Pense na segurança como um interesse 
 
 > Para impletmentar com mais facilidade uma política de negar por padrão para que as VMs não possam se conectar entre si, é possível criar uma regra de grupo de segurança de rede que impeça o acesso de outra VM na mesma rede.
 >
-> Uma regra de grupo de segurança de rede permite filtrar o tráfego de e para os recursos por endereço IP de origem e de destino, porta e protocolo.
+> Uma regra de grupo de segurança de rede permite filtrar o tráfego de e para os recursos por endereço IP de origem e de destino, porta e protocolo. Essa seria uma forma implementar com mais facilidade uma política de negar por padrão para que as VMs não possam se conectar entre si.
