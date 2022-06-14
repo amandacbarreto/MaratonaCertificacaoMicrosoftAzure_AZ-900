@@ -22,5 +22,5 @@
 16. ### [Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure](./Modulo16/M16_1_ServicosIdentidade.md)
 17. ### [Criar uma estratégia de governança de nuvem no Azure](./Modulo17/M17_1_GovernancaNuvem.md)
 18. ### [Conheça os padrões de privacidade, conformidade e proteção de dados do Azure](./Modulo18/M18_1_PrivacidadeConformidadeProtecao.md)
-19. ### [Planeje e gerencie seus custos do Azure]()
+19. ### [Planeje e gerencie seus custos do Azure](./Modulo19/M19_1_CustosAzure.md)
 20. ### [Escolha os serviços do Azure certos examinando SLAs e ciclo de vida do serviço]()
