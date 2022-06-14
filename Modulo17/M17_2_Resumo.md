@@ -23,6 +23,8 @@ Com esses pontos em mente, você está pronto para realizar a próxima etapa par
 > A melhor maneira para uma garantir que a equipe implante apenas tamanhos econômicos de SKU de máquina virtual é criar uma política no Azure Policy que especifique os tamanhos de SKU permitidos.
 >
 > Depois que você habilita essa política, ela é aplicada quando as máquinas virtuais são criadas ou as existentes são redimensionadas. O Azure Policy também avalia as máquinas virtuais atuais do ambiente.
+>
+> O RBAC do Azure permite que você crie funções que definem as permissões de acesso, mas não permite que você defina tamanhos de SKU de máquina virtual permitidos.
 
 > A melhor maneira para a empresa identificar a qual departamento de cobrança cada recurso do Azure pertence é aplicar uma marca a cada recurso que inclua o departamento de cobrança associado.
 >
