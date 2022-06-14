@@ -1,5 +1,9 @@
 # Resumo
 
+- Assinaturas e grupos de gerenciamento do Azure.
+- Grupos de recursos, recursos do Azure e Azure Resource Manager.
+- Regiões, pares de regiões e zonas de disponibilidade do Azure.
+
 > **Grupos de gerenciamento** podem ser usadas para gerenciar a governança entre várias assinaturas do Azure.
 >
 > > Os grupos de gerenciamento facilitam a ordenação hierárquica de recursos do Azure em coleções em um nível de escopo acima das assinaturas. Condições de governança distintas podem ser aplicadas a cada grupo de gerenciamento, juntamente com o Azure Policy e os controles de acesso baseado em função do Azure, para gerenciar assinaturas do Azure com eficiência. Os recursos e as assinaturas atribuídos a um grupo de gerenciamento herdam automaticamente as condições aplicadas ao grupo de gerenciamento.
