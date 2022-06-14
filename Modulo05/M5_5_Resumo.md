@@ -1,5 +1,9 @@
 # Resumo
 
+- Rede Virtual do Azure
+- Gateway de VPN do Azure
+- Azure ExpressRoute
+
 > Para se criar um túnel de comunicação seguro entre as filiais de uma empresa, pode-se usar as seguintes tecnologias:
 >
 > - Rede virtual privada ponto a site
