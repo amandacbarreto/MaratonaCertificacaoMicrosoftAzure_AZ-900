@@ -1,11 +1,5 @@
 # Resumo
 
-> _Não_ é preciso comprar uma conta do Azure para usar os recursos do Azure.
-
-> Computação em nuvem significa **entrega de serviços de computação pela Internet**.
-
-> **Inovação mais rápida**, **reconhecimento de fala e outros serviços cognitivos** e um **pool ilimitado de serviços** são recursos da Computação em nuvem.
-
 > _IaaS (Infraestrutura como Serviço)_, _PaaS (Plataforma como Serviço)_ e _SaaS (Software como Serviço)_ são categorias de computação em nuvem.
 > _NaaS (Rede como Serviço)_ **NÃO É UMA CATEGORIA DE COMPUTAÇÃO EM NUVEM**.
 
