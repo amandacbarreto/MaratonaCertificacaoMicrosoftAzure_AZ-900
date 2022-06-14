@@ -19,3 +19,5 @@
 > Uma assinatura do Azure é uma unidade lógica de serviços do Azure.
 >
 > > Uma assinatura é um conjunto de serviços do Azure agrupados para acompanhamento e cobrança. O controle de acesso a recursos ocorre no nível da assinatura. As organizações usam as assinaturas do Azure para gerenciar e controlar os recursos do Azure delas.
+>
+> Para usar **os recursos do Azure**, você precisará de algum tipo de assinatura.
